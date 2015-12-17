@@ -14,7 +14,7 @@ A simple python script, based on the ipython Notebook
 was created to do the processing in the command line.
 The syntax is:
 
-python process.py command
+    python process.py command
 
 list of commands:
 
@@ -53,10 +53,9 @@ List of Notebook created and description
 - Processed - store the files from the preprocess stage
 
 ### FILES
-go_vw.sh - shell to call the Vowpal Wabbit
-predict_vw.sh - called by the python notebook and script to 
-    predict according to the model created
-process.py - explained above, in command line
-README - this file
+- go_vw.sh - shell to call the Vowpal Wabbit
+- predict_vw.sh - called by the python notebook and script to predict according to the model created
+- process.py - explained above, in command line
+- README - this file
 
 during the execution of VW, some files will be created with .vw. they may be removed after execution.
