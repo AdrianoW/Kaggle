@@ -13,6 +13,8 @@ top 25%: SpringLeaf and Rossman
 
 ### Structure
 
-The folders contain mainly scripts used. Bike Sharing is a little tidier. I will make them more presentable in the future.
+The folders contain mainly scripts used. I will make them more presentable in the future.
+
+Bank and Bike sharing are a little tidier.
 
 
